@@ -1,0 +1,26 @@
+# Compiled output
+out/
+build/
+bin/
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build tools
+.gradle/
+.mvn/
+
+# Archives (source folders are committed instead)
+*.rar
+*.zip
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
